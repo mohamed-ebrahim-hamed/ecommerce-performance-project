@@ -4,10 +4,8 @@
 This is a collaborative data analysis project focused on understanding and visualizing the performance of an ecommerce business.
 
 ## 👥 Team Members
-
-- [اسمك هنا]  
-- [اسم الزميل الآخر هنا]
-
+-Mohamed Ebrahim Hamed
+-Nada Sami Salem
 ## 📁 Project Structure
 
 ```
