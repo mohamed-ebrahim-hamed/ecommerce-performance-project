@@ -42,6 +42,4 @@ This is a collaborative data analysis project focused on understanding and visua
 
 ## 📬 Contact
 
-For questions or collaboration:
-- [Your Email or GitHub]
-- [Teammate's Email or GitHub]
+For questions, feedback, or collaboration, https://www.linkedin.com/in/mohamed-ebrahim-hamed/.
